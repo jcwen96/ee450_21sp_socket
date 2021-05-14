@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.kml": "xml",
+        "array": "cpp",
+        "bitset": "cpp",
+        "functional": "cpp"
+    }
+}
